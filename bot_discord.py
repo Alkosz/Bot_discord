@@ -98,4 +98,4 @@ async def proekologia(ctx):
 
 
 
-bot.run("MTE2MjA1NTg0MjYwMjk1NDc4Mg.G2mpFF.6Y65jgG4juFZfNt1MFtLqKq2bn28R2Dls2t-e4") 
+bot.run("Token") 
